@@ -1,1 +1,0 @@
-The <marquee> tag allows you to create marquees with a minimum of fuss. Simply add the tag, include some attributes, and there's your marquee.
